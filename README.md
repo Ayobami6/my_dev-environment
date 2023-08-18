@@ -38,5 +38,5 @@ source ~/.zshrc
 ### Install Nerd Fonts
 
 ```sh
-wget https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/CodeNewRoman/Regular/CodeNewRomanNerdFont-Regular.otf
+wget https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/Hack/Regular/HackNerdFont-Regular.ttf
 ```
